@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Minhaj Siddiqui
 
-<!--
-**SiddiquiMinhaj/SiddiquiMinhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Site Reliability Engineer with 9+ years of experience in building scalable, reliable systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- AWS, Kubernetes (EKS), Terraform
+- CI/CD: Jenkins, GitHub, Artifactory
+- Observability: Datadog, Splunk, Prometheus
+- Languages: Python, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Key Achievements
+- Reduced MTTR by 35%
+- Maintained 99.9% uptime
+- Automated workflows reducing manual effort by 40%
+
+## 🤖 Currently Exploring
+AI-SRE using AWS Bedrock:
+- Log analysis automation
+- RCA summarization
+- Intelligent alerting
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/minhaj-siddiqui-b4458316a/
